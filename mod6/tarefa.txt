@@ -1,0 +1,16 @@
+ALGORITMO ACORDAR
+1 - Despertador toca
+2 - Abro os olhos
+3 - Pego o celular e vejo as horas
+4 - Posso dormir mais 10m?
+5 - Sim
+   5.1 - Aperto o botão soneca
+   5.2 - volto a dormir
+   5.3 - Reinicia ao passo 1
+6 - Não 
+   6.1 - Desligo o despertador
+   6.2 - Levanto da cama
+7 - Vou ao banheiro
+8 - Lavo o rosto
+9 - Escovo os dentes
+...
